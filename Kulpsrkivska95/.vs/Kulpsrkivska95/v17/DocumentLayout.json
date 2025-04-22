@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\\u0442\u0430\u0431\u0430 \u043B\u0430\u0431\u0430\\Kulpsrkivska95\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7B5ACB-A104-42B8-B50D-3A6E1EEBFB41}|Kulpsrkivska95\\Kulpsrkivska95.vcxproj|C:\\Users\\ADMIN\\Desktop\\\u0442\u0430\u0431\u0430 \u043B\u0430\u0431\u0430\\Kulpsrkivska95\\Kulpsrkivska95\\patients.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3C7B5ACB-A104-42B8-B50D-3A6E1EEBFB41}|Kulpsrkivska95\\Kulpsrkivska95.vcxproj|solutionrelative:Kulpsrkivska95\\patients.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7B5ACB-A104-42B8-B50D-3A6E1EEBFB41}|Kulpsrkivska95\\Kulpsrkivska95.vcxproj|C:\\Users\\ADMIN\\Desktop\\\u0442\u0430\u0431\u0430 \u043B\u0430\u0431\u0430\\Kulpsrkivska95\\Kulpsrkivska95\\visited.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3C7B5ACB-A104-42B8-B50D-3A6E1EEBFB41}|Kulpsrkivska95\\Kulpsrkivska95.vcxproj|solutionrelative:Kulpsrkivska95\\visited.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7B5ACB-A104-42B8-B50D-3A6E1EEBFB41}|Kulpsrkivska95\\Kulpsrkivska95.vcxproj|C:\\Users\\ADMIN\\Desktop\\\u0442\u0430\u0431\u0430 \u043B\u0430\u0431\u0430\\Kulpsrkivska95\\Kulpsrkivska95\\queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C7B5ACB-A104-42B8-B50D-3A6E1EEBFB41}|Kulpsrkivska95\\Kulpsrkivska95.vcxproj|solutionrelative:Kulpsrkivska95\\queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7B5ACB-A104-42B8-B50D-3A6E1EEBFB41}|Kulpsrkivska95\\Kulpsrkivska95.vcxproj|C:\\Users\\ADMIN\\Desktop\\\u0442\u0430\u0431\u0430 \u043B\u0430\u0431\u0430\\Kulpsrkivska95\\Kulpsrkivska95\\missed.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3C7B5ACB-A104-42B8-B50D-3A6E1EEBFB41}|Kulpsrkivska95\\Kulpsrkivska95.vcxproj|solutionrelative:Kulpsrkivska95\\missed.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7B5ACB-A104-42B8-B50D-3A6E1EEBFB41}|Kulpsrkivska95\\Kulpsrkivska95.vcxproj|C:\\Users\\ADMIN\\Desktop\\\u0442\u0430\u0431\u0430 \u043B\u0430\u0431\u0430\\Kulpsrkivska95\\Kulpsrkivska95\\Patient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C7B5ACB-A104-42B8-B50D-3A6E1EEBFB41}|Kulpsrkivska95\\Kulpsrkivska95.vcxproj|solutionrelative:Kulpsrkivska95\\Patient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7B5ACB-A104-42B8-B50D-3A6E1EEBFB41}|Kulpsrkivska95\\Kulpsrkivska95.vcxproj|C:\\Users\\ADMIN\\Desktop\\\u0442\u0430\u0431\u0430 \u043B\u0430\u0431\u0430\\Kulpsrkivska95\\Kulpsrkivska95\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C7B5ACB-A104-42B8-B50D-3A6E1EEBFB41}|Kulpsrkivska95\\Kulpsrkivska95.vcxproj|solutionrelative:Kulpsrkivska95\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7B5ACB-A104-42B8-B50D-3A6E1EEBFB41}|Kulpsrkivska95\\Kulpsrkivska95.vcxproj|C:\\Users\\ADMIN\\Desktop\\\u0442\u0430\u0431\u0430 \u043B\u0430\u0431\u0430\\Kulpsrkivska95\\Kulpsrkivska95\\Patient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C7B5ACB-A104-42B8-B50D-3A6E1EEBFB41}|Kulpsrkivska95\\Kulpsrkivska95.vcxproj|solutionrelative:Kulpsrkivska95\\Patient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7B5ACB-A104-42B8-B50D-3A6E1EEBFB41}|Kulpsrkivska95\\Kulpsrkivska95.vcxproj|C:\\Users\\ADMIN\\Desktop\\\u0442\u0430\u0431\u0430 \u043B\u0430\u0431\u0430\\Kulpsrkivska95\\Kulpsrkivska95\\queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C7B5ACB-A104-42B8-B50D-3A6E1EEBFB41}|Kulpsrkivska95\\Kulpsrkivska95.vcxproj|solutionrelative:Kulpsrkivska95\\queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Patient.h",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\\u0442\u0430\u0431\u0430 \u043B\u0430\u0431\u0430\\Kulpsrkivska95\\Kulpsrkivska95\\Patient.h",
+              "RelativeDocumentMoniker": "Kulpsrkivska95\\Patient.h",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\\u0442\u0430\u0431\u0430 \u043B\u0430\u0431\u0430\\Kulpsrkivska95\\Kulpsrkivska95\\Patient.h",
+              "RelativeToolTip": "Kulpsrkivska95\\Patient.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-22T09:05:52.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Patient.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\\u0442\u0430\u0431\u0430 \u043B\u0430\u0431\u0430\\Kulpsrkivska95\\Kulpsrkivska95\\Patient.cpp",
+              "RelativeDocumentMoniker": "Kulpsrkivska95\\Patient.cpp",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\\u0442\u0430\u0431\u0430 \u043B\u0430\u0431\u0430\\Kulpsrkivska95\\Kulpsrkivska95\\Patient.cpp",
+              "RelativeToolTip": "Kulpsrkivska95\\Patient.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-22T09:13:47.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "queue.h",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\\u0442\u0430\u0431\u0430 \u043B\u0430\u0431\u0430\\Kulpsrkivska95\\Kulpsrkivska95\\queue.h",
+              "RelativeDocumentMoniker": "Kulpsrkivska95\\queue.h",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\\u0442\u0430\u0431\u0430 \u043B\u0430\u0431\u0430\\Kulpsrkivska95\\Kulpsrkivska95\\queue.h",
+              "RelativeToolTip": "Kulpsrkivska95\\queue.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-22T09:09:06.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "queue.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\\u0442\u0430\u0431\u0430 \u043B\u0430\u0431\u0430\\Kulpsrkivska95\\Kulpsrkivska95\\queue.cpp",
+              "RelativeDocumentMoniker": "Kulpsrkivska95\\queue.cpp",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\\u0442\u0430\u0431\u0430 \u043B\u0430\u0431\u0430\\Kulpsrkivska95\\Kulpsrkivska95\\queue.cpp",
+              "RelativeToolTip": "Kulpsrkivska95\\queue.cpp",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-22T09:09:28.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\\u0442\u0430\u0431\u0430 \u043B\u0430\u0431\u0430\\Kulpsrkivska95\\Kulpsrkivska95\\main.cpp",
+              "RelativeDocumentMoniker": "Kulpsrkivska95\\main.cpp",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\\u0442\u0430\u0431\u0430 \u043B\u0430\u0431\u0430\\Kulpsrkivska95\\Kulpsrkivska95\\main.cpp",
+              "RelativeToolTip": "Kulpsrkivska95\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-22T09:03:31.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "patients.txt",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\\u0442\u0430\u0431\u0430 \u043B\u0430\u0431\u0430\\Kulpsrkivska95\\Kulpsrkivska95\\patients.txt",
+              "RelativeDocumentMoniker": "Kulpsrkivska95\\patients.txt",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\\u0442\u0430\u0431\u0430 \u043B\u0430\u0431\u0430\\Kulpsrkivska95\\Kulpsrkivska95\\patients.txt",
+              "RelativeToolTip": "Kulpsrkivska95\\patients.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-22T09:37:23.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "visited.txt",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\\u0442\u0430\u0431\u0430 \u043B\u0430\u0431\u0430\\Kulpsrkivska95\\Kulpsrkivska95\\visited.txt",
+              "RelativeDocumentMoniker": "Kulpsrkivska95\\visited.txt",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\\u0442\u0430\u0431\u0430 \u043B\u0430\u0431\u0430\\Kulpsrkivska95\\Kulpsrkivska95\\visited.txt",
+              "RelativeToolTip": "Kulpsrkivska95\\visited.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-22T09:22:02.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "missed.txt",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\\u0442\u0430\u0431\u0430 \u043B\u0430\u0431\u0430\\Kulpsrkivska95\\Kulpsrkivska95\\missed.txt",
+              "RelativeDocumentMoniker": "Kulpsrkivska95\\missed.txt",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\\u0442\u0430\u0431\u0430 \u043B\u0430\u0431\u0430\\Kulpsrkivska95\\Kulpsrkivska95\\missed.txt",
+              "RelativeToolTip": "Kulpsrkivska95\\missed.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-22T09:22:13.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
